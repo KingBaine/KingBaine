@@ -25,5 +25,4 @@ This profile showcases projects related to **automation**, **infrastructure moni
 
 Feel free to reach out—I'm always open to discussing automation challenges or system optimization strategies!
 
-* **[Your LinkedIn Profile Link]**
-* **[Your Email Address or Portfolio Link]**
+* **besongndanji4@outlook.com**
