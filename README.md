@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Ndanji Oben
 
-<!--
-**KingBaine/KingBaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technical professional bridging the gap between development and infrastructure. Starting my career as a **Software Engineer**, I've successfully transitioned into an **IT System Administrator**, focusing on stability, automation, and efficiency.
 
-Here are some ideas to get you started:
+### My Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area | Key Skills |
+| :--- | :--- |
+| **System Administration** | Linux, Bash Scripting, System Maintenance, Troubleshooting |
+| **Automation & Scripting** | Python, Bash |
+| **Application Development** | VB.NET (Desktop Applications) |
+| **Networking** | Medium Proficiency (Configuration, Diagnostics) |
+
+### Why this Profile?
+
+This profile showcases projects related to **automation**, **infrastructure monitoring**, and utility applications built to streamline administrative tasks.
+
+---
+
+### Let's Connect
+
+Feel free to reach out—I'm always open to discussing automation challenges or system optimization strategies!
+
+* **[Your LinkedIn Profile Link]**
+* **[Your Email Address or Portfolio Link]**
